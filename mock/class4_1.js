@@ -1,0 +1,101 @@
+var modules_4_1 = [
+    {
+        "title": "Module 1",
+        "content": [
+            {"en": "straight","zh":"直的，直线的"},
+            {"en": "go straight on","zh":"直着走"},
+            {"en": "left","zh":"左边；向左；左边的"},
+            {"en": "right","zh":"右边；向右；右边的"},
+            {"en": "lost","zh":"迷路的"},
+            {"en": "live","zh":"居住"},
+            {"en": "No. (number)","zh":"第...号"},
+            {"en": "street","zh":"大街，街道"},
+            {"en": "excuse","zh":"抱歉，打扰"},
+            {"en": "excuse me","zh":"对不起，打扰一下"},
+            {"en": "turn left","zh":"向左转"},
+            {"en": "turn right","zh":"向右转"},
+            {"en": "next to","zh":"仅靠...旁边，贴近"},
+            {"en": "super","zh":"超级"},
+            {"en": "market","zh":"商店"},
+            {"en": "supermarket","zh":"超市"},
+            {"en": "beside","zh":"在...旁边，在...附近"},
+            {"en": "cinema","zh":"电影院"},
+            {"en": "so much","zh":"十分，非常"},
+            {"en": "You're welcome","zh":"不客气"},
+            {"en": "station","zh":"车站"},
+            {"en": "train","zh":"火车"},
+            {"en": "hill","zh":"小山"},
+            {"en": "near","zh":"接近，临近"},
+            {"en": "house","zh":"房屋"}
+        ]
+    },
+    {
+        "title": "Module 2",
+        "content": [
+            {"en": "read","zh":"阅读"},
+            {"en": "running","zh":"跑步"},
+            {"en": "these","zh":"这些"},
+            {"en": "picture","zh":"照片"},
+            {"en": "take","zh":"拍摄"},
+            {"en": "take pictures","zh":"照相"},
+            {"en": "child","zh":"一个孩子"},
+            {"en": "children","zh":"孩子们"},
+            {"en": "listen","zh":"听"},
+            {"en": "talk","zh":"交谈"},
+            {"en": "talk to","zh":"和...交谈"},
+            {"en": "China","zh":"中国"}
+        ]
+    },
+    {
+        "title": "Module 3",
+        "content": [
+            {"en": "kid","zh":"小孩"},
+            {"en": "get on","zh":"上车"},
+            {"en": "can","zh":"能够，会"},
+            {"en": "see","zh":"看到"},
+            {"en": "lots of","zh":"许多"},
+            {"en": "interesting","zh":"有趣的"},
+            {"en": "thing","zh":"东西，物品，事情"},
+            {"en": "people","zh":"人，人们"},
+            {"en": "row","zh":"划船"},
+            {"en": "dragon","zh":"龙"},
+            {"en": "boat","zh":"船"},
+            {"en": "dragon boat","zh":"龙舟"},
+            {"en": "men","zh":"man的复数形式，男人"},
+            {"en": "between","zh":"在...之间，在中间"},
+            {"en": "chese","zh":"国际象棋"},
+            {"en": "play chese","zh":"下国际象棋"},
+            {"en": "drink","zh":"喝"},
+            {"en": "milk","zh":"牛奶"},
+            {"en": "soya milk","zh":"豆浆"},
+            {"en": "clock","zh":"闹钟"},
+            {"en": "hungry","zh":"饥饿的"},
+            {"en": "Me too","zh":"我也一样"},
+            {"en": "draw","zh":"画"},
+            {"en": "jump","zh":"跳"},
+            {"en": "sing","zh":"唱歌"},
+            {"en": "dance","zh":"跳舞"}
+        ]
+    },
+    {
+        "title": "Module 4",
+        "content": [
+            {"en": "want","zh":"想要"},
+            {"en": "some","zh":"一些"},
+            {"en": "juice","zh":"果汁"},
+            {"en": "ice","zh":"冰，冰块"},
+            {"en": "also","zh":"也，还"},
+            {"en": "food","zh":"食物"},
+            {"en": "fast food","zh":"快餐"},
+            {"en": "make","zh":"制作"},
+            {"en": "tomato","zh":"番茄，西红柿"},
+            {"en": "egg","zh":"鸡蛋"},
+            {"en": "potato","zh":"马铃薯，土豆"},
+            {"en": "How much","zh":"多少钱？"},
+            {"en": "flower","zh":"花"},
+            {"en": "dumping","zh":"水饺"},
+            {"en": "help","zh":"帮助，帮忙"},
+            {"en": "buy","zh":"买"}
+        ]
+    }
+]
