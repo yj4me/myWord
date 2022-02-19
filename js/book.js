@@ -16,6 +16,10 @@ function init() {
 function initData() {
     var _html = '';
     var levelIndex = getParamFromPath("level",window.location.href);
+    if(levelIndex === "4"){
+        window.location.href = "https://haokan.baidu.com/v?vid=9579128478024160018&tab=";
+        return;
+    }
     var modules = books["level"+levelIndex];
     for(var i=0,len=modules.length;i<len;i++){
         _html += ' <div class="module_item">\n' +

@@ -7,7 +7,7 @@ function init() {
 // 初始化数据
 function initData() {
     var _html = '';
-    for(var i=0,len=4;i<len;i++){
+    for(var i=0,len=5;i<len;i++){
         _html += '<div class="poster_item" data-index="'+i+'"><img src="./images/poster'+i+'.jpg" alt=""></div>';
     }
     $("#poster_list").html(_html);

@@ -2,64 +2,68 @@ var modules_3_2 = [
     {
         "title": "Module 1",
         "content": [
-            {"en": "hello (hi)","zh":"你好"},
-            {"en": "I am (I'm)","zh":"我是"},
-            {"en": "goodbye (bye-bye)","zh":"再见"},
-            {"en": "good morning","zh":"早上好"},
-            {"en": "How are you?","zh":"你好吗"},
-            {"en": "fine","zh":"(身体)很好"},
-            {"en": "thank you","zh":"谢谢"},
-            {"en": "and","zh":"和"}
+            {"en": "song","zh":"歌曲"},
+            {"en": "TV","zh":"电视台"},
+            {"en": "favourite","zh":"最喜欢的"},
+            {"en": "color","zh":"颜色"},
+            {"en": "Here you are","zh":"给你"}
         ]
     },
     {
         "title": "Module 2",
         "content": [
-            {"en": "too","zh":"也"},
-            {"en": "boy","zh":"男孩"},
-            {"en": "girl","zh":"女孩"},
-            {"en": "Ms.","zh":"女士"},
-            {"en": "good afternoon","zh":"下午好"},
-            {"en": "Mr.","zh":"先生"},
-            {"en": "your","zh":"你的"},
-            {"en": "name","zh":"名字"}
+            {"en": "they","zh":"他们"},
+            {"en": "they're","zh":"他们是"},
+            {"en": "monkey","zh":"猴子"},
+            {"en": "baby","zh":"婴儿"},
+            {"en": "all","zh":"全部"},
+            {"en": "zoo","zh":"动物园"},
+            {"en": "tiger","zh":"老虎"},
+            {"en": "lion","zh":"狮子"},
+            {"en": "elephant","zh":"大象"},
+            {"en": "fat","zh":"胖的"},
+            {"en": "man","zh":"人，男人"},
+            {"en": "short","zh":"矮的"},
+            {"en": "tall","zh":"高的"},
+            {"en": "small","zh":"小的"},
+            {"en": "thin","zh":"瘦的"},
+            {"en": "big","zh":"大的"}
         ]
     },
     {
         "title": "Module 3",
         "content": [
-            {"en": "a","zh":"一个"},
-            {"en": "panda","zh":"熊猫"},
-            {"en": "now","zh":"现在"},
-            {"en": "it is(it's)","zh":"它是"},
-            {"en": "red","zh":"红的"},
-            {"en": "blue","zh":"蓝的"},
-            {"en": "yellow","zh":"黄色"},
-            {"en": "green","zh":"绿的"},
-            {"en": "black","zh":"黑的"},
-            {"en": "dog","zh":"狗"},
-            {"en": "dog","zh":"狗"},
-            {"en": "desk","zh":"书桌"},
-            {"en": "chair","zh":"椅子"},
-            {"en": "orange","zh":"橘黄色的"}
+            {"en": "like","zh":"喜欢"},
+            {"en": "football","zh":"足球"},
+            {"en": "them","zh":"他们"},
+            {"en": "ouch","zh":"哎呦"},
+            {"en": "basketball","zh":"篮球"},
+            {"en": "table tennies","zh":"乒乓球"},
+            {"en": "morning exercises","zh":"早操"},
+            {"en": "ride","zh":"骑"},
+            {"en": "bike","zh":"自行车"},
+            {"en": "swim","zh":"游泳"},
+            {"en": "skip","zh":"跳绳"}
         ]
     },
     {
         "title": "Module 4",
         "content": [
-            {"en": "how many","zh":"多少个？"},
-            {"en": "one","zh":"一"},
-            {"en": "two","zh":"二"},
-            {"en": "three","zh":"三"},
-            {"en": "four","zh":"四"},
-            {"en": "five","zh":"五"},
-            {"en": "six","zh":"六"},
-            {"en": "seven","zh":"七"},
-            {"en": "eight","zh":"八"},
-            {"en": "nine","zh":"九"},
-            {"en": "ten","zh":"十"},
-            {"en": "cap","zh":"帽子"},
-            {"en": "cat","zh":"猫"}
+            {"en": "meat","zh":"肉"},
+            {"en": "pass","zh":"传，递"},
+            {"en": "rice","zh":"米饭"},
+            {"en": "mum","zh":"妈妈"},
+            {"en": "noodles","zh":"面条"},
+            {"en": "fish","zh":"鱼肉；鱼"},
+            {"en": "but","zh":"但是"},
+            {"en": "milk","zh":"牛奶"},
+            {"en": "mm","zh":"呣"},
+            {"en": "dose","zh":"do的第三人称单数形式"},
+            {"en": "orange","zh":"橙；柑；橘"},
+            {"en": "apple","zh":"苹果"},
+            {"en": "banana","zh":"香蕉"},
+            {"en": "pear","zh":"梨"},
+            {"en": "doesn't","zh":"does not 不"}
         ]
     }
 ]
